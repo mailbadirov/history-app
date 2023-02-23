@@ -2,7 +2,7 @@
 
 History App with React, TypeScript, styled-components, Webpack, Swiper and gsap
 
-[![DEMO](https://img.shields.io/badge/live%20demo-0073cf?style=for-the-badge&logoColor=white)](https://history-app.vercel.app/)
+[![DEMO](https://img.shields.io/badge/live%20demo-0073cf?style=for-the-badge&logoColor=white)](https://mailbadirov.github.io/history-app/)
 
 ## Technologies
 
