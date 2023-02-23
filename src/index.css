@@ -1,0 +1,25 @@
+:root {
+  --whisper: #f4f5f9;
+  --east-bay: #42567A;
+  --east-bayT: #42567A1A;
+  --royal-blue: #3877ee;
+  --brilliant-rose: #ef5da8;
+  --royal-blue2: #5D5FEF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'PT Sans', sans-serif;
+  color: var(--east-bay);
+}
+
+body {
+  background-color: var(--whisper);
+}
+
+button {
+  border: none;
+}

@@ -1,0 +1,3 @@
+interface ICircularSliderPointProps {
+  index: number;
+}
